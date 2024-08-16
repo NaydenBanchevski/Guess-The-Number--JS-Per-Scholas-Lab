@@ -18,4 +18,3 @@
 2. Enter your guess in the input field.
 3. Click the "Guess" button to submit your guess.
 4. The game will tell you if your guess is too high, too low, or correct.
-5. If you guess correctly, the correct number will be revealed, and you can start a new game by clicking "Restart."
